@@ -1,0 +1,19 @@
+.parent {
+  background-color: blue;
+  padding: 10px;
+  position: relative;
+  height: 200vh;
+
+.child-one {
+  background-color: rgb(106, 243, 106);
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+.child-two {
+  background-color: tomato;
+}
+
+.child-three {
+  background-color: thistle;
+}
